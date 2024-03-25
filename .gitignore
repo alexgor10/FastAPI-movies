@@ -2,3 +2,4 @@ fastapi/*
 *sqlite
 *.pyc
 *.pyo
+__pycache__
